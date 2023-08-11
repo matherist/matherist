@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME TO MY PAGE, I AM DS/ML STUDENT
 
 ### I SOLVE HERE PROBLEMS:
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
